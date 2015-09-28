@@ -1,3 +1,9 @@
+PATH
+  remote: ../usastandards-rails
+  specs:
+    usastandards-rails (0.8.0)
+      rails
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -150,6 +156,7 @@ DEPENDENCIES
   sqlite3
   turbolinks
   uglifier (>= 1.3.0)
+  usastandards-rails!
   web-console (~> 2.0)
 
 BUNDLED WITH
